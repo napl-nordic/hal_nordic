@@ -1,3 +1,4 @@
+test
 /*
  * Copyright (c) 2017 - 2023, Nordic Semiconductor ASA
  * All rights reserved.
